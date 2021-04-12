@@ -18,9 +18,11 @@ https://github.com/agility/agilitycms-angular-blog
 
 ## Next.js
 We have a special starter for Next.js that you can find here: 
+
 https://agilitycms.com/starters/blog-with-nextjs
 
 ## Gatsby.js
 We have a starter for Gatsby that you can find here: 
+
 https://agilitycms.com/starters/blog-with-gatsby
 
