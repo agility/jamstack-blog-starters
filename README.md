@@ -26,3 +26,5 @@ We have a starter for Gatsby that you can find here:
 
 https://agilitycms.com/starters/blog-with-gatsby
 
+## Introduction to Agility CMS (article)
+https://coderoflagos.hashnode.dev/introduction-to-agility-cms-ckf5hg42s00bo8ys16s4w8drq
